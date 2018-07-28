@@ -1,0 +1,3 @@
+rootProject.name = 'hackingRioNative'
+
+include ':app'
